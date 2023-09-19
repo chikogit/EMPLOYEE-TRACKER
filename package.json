@@ -16,7 +16,7 @@
     "bugs": {
         "url": "git@github.com:chikogit/EMPLOYEE-TRACKER.git"
     },
-    "homepage": "https://github.com/chikogit/SOCIAL-NETWORK-API#readme",
+    "homepage": "https://github.com/chikogit/EMPLOYEE-TRACKER.git",
     "dependencies": {
         "console.table": "^0.10.0",
         "dotenv": "^16.3.1",
