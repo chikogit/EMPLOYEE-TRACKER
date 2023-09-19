@@ -1,0 +1,27 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:chikogit/EMPLOYEE-TRACKER.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "git@github.com:chikogit/EMPLOYEE-TRACKER.git"
+    },
+    "homepage": "https://github.com/chikogit/SOCIAL-NETWORK-API#readme",
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "dotenv": "^16.3.1",
+        "inquirer": "^8.2.0",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.3"
+    }
+}
